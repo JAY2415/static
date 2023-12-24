@@ -4,8 +4,8 @@ import './App.css';
 function Header() {
   return (
     <header>
-    <nav>
-      <img src={logo} alt="logo" />
+    <nav className="nav">
+      <img className="logo" src={logo} alt="logo" />
       <ul className="nav-items">
         <li>Pricing</li>
         <li>About</li>
