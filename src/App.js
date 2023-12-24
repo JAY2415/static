@@ -17,13 +17,13 @@ function Header() {
 }
 function MainContent() {
   return (
-    
+    <div></div>
   )
 }
 
 function Footer() {
   return (
-    
+    <div></div>
   )
 }
 function App() {
