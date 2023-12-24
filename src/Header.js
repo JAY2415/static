@@ -4,7 +4,7 @@ import logo from './logo.svg';
 
 export default function Header() {
   return (
-    <header>
+    <header className="App">
     <nav className="nav">
       <img className="logo" src={logo} alt="logo" />
       <ul className="nav-items">
