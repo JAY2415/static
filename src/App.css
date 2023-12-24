@@ -1,5 +1,5 @@
 .logo {
-  height: 40vmin;
+  height: 10px;
 }
 
 .nav {
@@ -14,5 +14,5 @@
 }
 
 .nav-items > li {
-  padding:"10px";
+  padding:10px;
 }
