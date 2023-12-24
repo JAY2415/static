@@ -3,7 +3,7 @@
 }
 
 .logo {
-  height: 100px;
+  height: 150px;
 }
 
 .nav {
@@ -18,6 +18,6 @@
 }
 
 .nav-items > li {
-  color:#000000;
+  color:#ffffff;
   padding:10px;
 }
