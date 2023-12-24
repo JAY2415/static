@@ -1,1 +1,4 @@
-# static
+---------
+### A Simple Static Page
+----------
+
