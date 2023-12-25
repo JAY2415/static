@@ -48,7 +48,7 @@
   color:#ffffff;
   font-family:Arbutus;
   pading:40px 30px;
-  margin-left:10px;
+  margin-left:auto;
 }
 
 .main-ul {
@@ -56,4 +56,9 @@
   padding:25px 25px;
   font-family:Arbutus;
   font-weight:300;
+}
+
+.App-header {
+  margin-left:10px;
+  background-color:#000000;
 }
