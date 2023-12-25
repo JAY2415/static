@@ -43,3 +43,17 @@
   color:#ffffff;
   padding:10px;
 }
+
+.main-h1 {
+  color:#ffffff;
+  font-family:Arbutus;
+  pading:40px 30px;
+  margin-left:10px;
+}
+
+.main-ul {
+  color:#ffffff;
+  padding:25px 25px;
+  font-family:Arbutus;
+  font-weight:300;
+}
