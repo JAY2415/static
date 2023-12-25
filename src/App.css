@@ -3,14 +3,36 @@
 }
 
 .logo {
-  height: 40px;
+  height: 30px;
+  margin-right:7px;
 }
 
 .nav {
   align-items:center;
   display:flex;
   justify-content:space-between;
+  background-color:#21222A;
+  padding: 30px 25px;
+  height:90px;
 }
+
+.nav > h3 , .nav >h4 {
+  margin:0;
+}
+
+.nav > h3 {
+  margin-right:auto;
+  color:#61DAFB;
+  font-weight:700;
+  font-family:Audiowave;
+  font-size:22px;
+}
+
+.nav > h4 {
+  color:#DEEBF8;
+  font-weight:600;
+}
+
 
 .nav-items {
   list-style:none;
