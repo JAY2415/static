@@ -40,7 +40,7 @@
 }
 
 .nav-items > li {
-  color:#ffffff;
+  
   padding:10px;
 }
 
@@ -54,11 +54,9 @@
 .main-ul {
   color:#ffffff;
   padding:25px 25px;
-  font-family:Arbutus;
   font-weight:300;
 }
 
 .App-header {
   margin-left:10px;
-  background-color:#000000;
 }
