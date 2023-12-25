@@ -70,7 +70,7 @@ body {
 .App-header {
   background-image: url("react-icon-large.png");
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: right 75%;
   margin-left:10px;
   padding:57px 27px;
 }
