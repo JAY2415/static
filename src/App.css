@@ -1,4 +1,4 @@
-.container {
+body {
   background-color:#282c34;
 }
 
@@ -45,6 +45,7 @@
 }
 
 .main-h1 {
+  letter-spacing:-0.05em;
   color:#ffffff;
   font-family:Arbutus;
   pading:40px 30px;
@@ -52,11 +53,19 @@
 }
 
 .main-ul {
+  margin-top:46px;
   color:#ffffff;
   padding:25px 25px;
   font-weight:300;
+  max-width:400px;
+}
+
+.main-ul > li {
+  padding-block:10px;
 }
 
 .App-header {
   margin-left:10px;
+  
 }
+
