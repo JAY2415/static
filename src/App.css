@@ -62,6 +62,10 @@ body {
 .main-ul > li {
   padding-block:10px;
 }
+.main-ul > li::marker {
+  font-size:1.4rem;
+  color:#61DAFB;
+}
 
 .App-header {
   margin-left:10px;
