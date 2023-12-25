@@ -1,6 +1,5 @@
 import React from 'react'
-import logo from '@src/logo.svg'
-import '@src/App.css';
+
 
 export default function MainContent() {
   return (
